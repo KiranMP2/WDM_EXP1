@@ -11,14 +11,14 @@
 Employee Data
 ---------------
 @relation employee
-@attribute name {Rishi,y,z,a,b}
+@attribute name {KIRAN,y,z,a,b}
 @attribute id numeric
 @attribute salary {low,medium,high}
 @attribute exp numeric
 @attribute gender {male,female}
 @attribute phone numeric
 @data
-Rishi,101,low,2,male,250311
+KIRAN,101,low,2,male,250311
 y,102,high,3,female,251665
 z,103,medium,1,male,240238
 a,104,low,5,female,200200
